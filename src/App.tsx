@@ -31,7 +31,7 @@ const projects: Project[] = [
     description: 'A cinematic product landing experience with responsive layouts, scroll-synchronised storytelling and interactive 3D product presentation.',
     proof: ['GSAP timelines', 'ScrollTrigger motion', 'Interactive 3D'],
     tech: ['React', 'GSAP', 'Three.js', 'Tailwind CSS'],
-    github: 'https://github.com/SarthakYadava/gsap_macbook_landing',
+    github: 'https://github.com/SarthakYadava/Apple-Clone_Frontend',
     demo: 'https://drive.google.com/file/d/1ESVF0AEkFjM3k7nblCxXSP9xcWbxw3Rs/view?usp=sharing',
   },
   {
